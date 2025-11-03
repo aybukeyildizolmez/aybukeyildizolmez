@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aybüke Yıldız Ölmez  
+# 👋 Hi, I'm Aybüke Yildiz Ölmez  
 
 🎓 **M.S. in Business Analytics | Mercy University, New York**  
 💻 **Computer Engineering Graduate | Data Analyst | Business Analytics Enthusiast**  
