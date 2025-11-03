@@ -51,7 +51,7 @@ With a background in **Computer Engineering** and hands-on analytics experience,
 
 ## 📫 Connect With Me  
 🌐 **GitHub:** [github.com/aybukeyildizolmez](https://github.com/aybukeyildizolmez)  
-💼 **LinkedIn:** [linkedin.com/in/aybuke-yildiz-olmez9a01aa353](https://linkedin.com/in/aybuke-yildiz-olmez9a01aa353)  
+💼 **LinkedIn:** [linkedin.com/in/aybuke-yildiz-olmez-9a01aa353](https://linkedin.com/in/aybuke-yildiz-olmez-9a01aa353)  
 📧 **Email:** aybukeolmez@icloud.com  
 
 ---
