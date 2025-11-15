@@ -24,7 +24,8 @@ With a strong background in **Computer Engineering** and hands-on analytics expe
 - Built and cleaned Instagram & Facebook performance datasets  
 - Created R visualizations using ggplot2 to analyze audience growth, engagement trends, and content performance  
 - Compared posting cadence and traffic patterns across two time periods  
-- Delivered insights that supported content strategy and visibility improvements  
+- Delivered insights that supported content strategy and visibility improvements
+  
 📁 `/Achieving-Abilities-Social-Media-Analysis/`
 
 ---
