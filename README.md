@@ -1,57 +1,77 @@
 # 👋 Hi, I'm Aybüke Yildiz Ölmez  
 
 🎓 **M.S. in Business Analytics | Mercy University, New York**  
-💻 **Computer Engineering Graduate | Data Analyst | Business Analytics Enthusiast**  
-📍 Currently based in the U.S. | Passionate about transforming raw data into meaningful insights  
+💻 **Computer Engineering Graduate | Data Analyst**  
+📍 Based in the U.S. | Passionate about transforming raw data into meaningful insights  
 
 ---
 
 ## 🧠 About Me  
-I’m a data-driven problem solver who loves uncovering patterns and building stories from data.  
-With a background in **Computer Engineering** and hands-on analytics experience, I specialize in:  
+I am a data-driven problem solver who enjoys uncovering patterns, visualizing trends, and turning business questions into actionable insights.  
+With a strong background in **Computer Engineering** and hands-on analytics experience in real-world projects, I specialize in:
 
-- 📊 **Data Cleaning, Analysis & Visualization** (Python, R, SQL, Tableau, Excel)  
-- 🤖 **Machine Learning & Predictive Modeling** (Logistic Regression, k-NN, ARIMA, Classification)  
-- 💡 **Business Insights & Decision Analytics** for marketing, social media, and finance use cases  
-- 🔐 **Data Ethics & Privacy** — exploring how analytics aligns with legal and ethical standards  
-- ⚙️ **Software Development Foundation:** Experienced with **Java, C, C# and C++**, which strengthen my algorithmic and logical thinking for data tasks
+- 📊 **Data Cleaning, Analysis & Visualization** (R, Python, SQL, Tableau, Excel)  
+- 🤖 **Predictive Modeling** (Logistic Regression, k-NN, Classification, Forecasting)  
+- 💡 **Business Insights & Decision Analytics** for marketing, social media, and financial data  
+- 🔐 **Data Ethics & Privacy** — exploring how analytics aligns with ethical and legal standards  
+- ⚙️ **Software Development Foundation:** Experience with **Java, C, C#, C++**, enhancing my algorithmic and analytical thinking  
 
 ---
 
 ## 🚀 Featured Projects  
-| Project | Description | Tools |
-|----------|--------------|--------|
 
-
-> 🧾 *Each project repository includes detailed documentation, data sources, visualizations, and model evaluation.*
+### 🔹 Achieving Abilities – Social Media Analytics (R)
+- Built and cleaned Instagram & Facebook performance datasets  
+- Created R visualizations using ggplot2 to analyze audience growth, engagement trends, and content performance  
+- Compared posting cadence and traffic patterns across two time periods  
+- Delivered insights that supported content strategy and visibility improvements  
+📁 `/Achieving-Abilities-Social-Media-Analysis/`
 
 ---
+
+### 🔹 Rkive – Fintech Expense Management Analysis (R)
+**Tools:** R (tidyverse, dplyr, ggplot2)  
+**Focus:** Consumer spending analysis, data cleaning, pattern identification  
+
+- Cleaned and transformed raw billing and expense data  
+- Performed exploratory data analysis (EDA) to identify spending patterns and monthly trends  
+- Aggregated and summarized financial behavior data for insight generation  
+- Created custom R visualizations to explore category distribution and spending peaks  
+- Produced an analytical report supporting Rkive’s market understanding and product direction  
+📁 `/Rkive-Fintech-Analysis/`
+
+---
+
+> 🧾 *Each project repository includes documentation, scripts, visualizations, and analysis summaries.*
+
+---
+
 ## 🛠️ Technical Toolkit  
 
 **Languages:** Python, R, SQL, Java, C, C#, C++  
-**Libraries & Frameworks:** pandas, numpy, scikit-learn, ggplot2, tidyverse, forecast  
-**BI & Visualization Tools:** Tableau, Power BI  
-**Version Control:** Git, GitHub  
-**Other Tools:** Excel (PowerQuery, Pivot Tables, VBA basics), RMarkdown, Jupyter Notebook, Google Colab, Visual Studio Code, QGIS (spatial data analysis)
+**Libraries:** pandas, numpy, scikit-learn, ggplot2, tidyverse, forecast  
+**Visualization & BI:** Tableau, Power BI  
+**Tools:** Git, GitHub, RMarkdown, Jupyter Notebook, Google Colab, VS Code, QGIS  
+**Data Skills:** Data Cleaning, EDA, Visualization, Modeling, Reporting  
 
 ---
 
 ## 🎯 Current Focus  
 - Building predictive models with real-world datasets  
-- Improving data storytelling through interactive dashboards  
-- Learning advanced visualization and ML interpretability techniques (SHAP, LIME)  
+- Enhancing data storytelling with visualization techniques  
+- Learning ML interpretability methods (SHAP, LIME)  
 
 ---
 
 ## 🧩 Education  
-🎓 **Master of Science in Business Analytics**, Mercy University, 2025 
-🎓 **Bachelor of Science in Computer Engineering**, Antalya Bilim University, 2023  
+🎓 **Master of Science in Business Analytics**, Mercy University (2025)  
+🎓 **Bachelor of Science in Computer Engineering**, Antalya Bilim University (2023)  
 
 ---
 
 ## 📫 Connect With Me  
-🌐 **GitHub:** [github.com/aybukeyildizolmez](https://github.com/aybukeyildizolmez)  
-💼 **LinkedIn:** [linkedin.com/in/aybuke-yildiz-olmez-9a01aa353](https://linkedin.com/in/aybuke-yildiz-olmez-9a01aa353)  
+🌐 **GitHub:** https://github.com/aybukeyildizolmez  
+💼 **LinkedIn:** https://linkedin.com/in/aybuke-yildiz-olmez-9a01aa353  
 📧 **Email:** aybukeolmez@icloud.com  
 
 ---
