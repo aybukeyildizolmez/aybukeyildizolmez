@@ -29,16 +29,16 @@ With a strong background in **Computer Engineering** and hands-on analytics expe
 
 ---
 
-### 🔹 🔹 Rkive – Macro Tec Systems Inc. (Fintech Expense Management Analysis)
-**Tools** R (tidyverse, dplyr, ggplot2, lubridate, scales), sodium (encryption)
-**Focus** Consumer spending analysis, data cleaning, encryption workflow, macroeconomic alignment
--Cleaned, transformed, and anonymized raw billing and invoice datasets
--Performed EDA to uncover category-level spending patterns and monthly consumption trends
--Integrated CPI and retail inflation data to compare user spending with macroeconomic indicators
--Built custom ggplot2 visualizations to analyze spending peaks, category shifts, and seasonal effects
--Developed a secure data encryption workflow (sodium) for sensitive financial fields
--Delivered a full R Markdown reproducible analysis supporting Rkive’s U.S. market strategy
-📁 GitHub: `/Rkive-MacroTec-Analysis/`
+### 🔹 Rkive – Macro Tec Systems Inc. (Fintech Expense Management Analysis)
+**Tools:** R (tidyverse, dplyr, ggplot2, lubridate, scales), sodium (encryption) 
+**Focus:** Consumer spending analysis, data cleaning, encryption workflow, macroeconomic alignment 
+- Cleaned, transformed, and anonymized raw billing and invoice datasets 
+- Performed EDA to uncover category-level spending patterns and monthly consumption trends 
+- Integrated CPI and retail inflation data to compare user spending with macroeconomic indicators
+- Built custom ggplot2 visualizations to analyze spending peaks, category shifts, and seasonal effects
+- Developed a secure data encryption workflow (sodium) for sensitive financial fields
+- Delivered a full R Markdown reproducible analysis supporting Rkive’s U.S. market strategy
+📁 `/Rkive-MacroTec-Analysis/`
 
 ---
 
